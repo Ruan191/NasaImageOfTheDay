@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaImageOfTheDay", "NasaImageOfTheDay\NasaImageOfTheDay.csproj", "{06AF6D1F-2A1A-43E3-9CE2-07979A5A966A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AF6D1F-2A1A-43E3-9CE2-07979A5A966A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AF6D1F-2A1A-43E3-9CE2-07979A5A966A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AF6D1F-2A1A-43E3-9CE2-07979A5A966A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AF6D1F-2A1A-43E3-9CE2-07979A5A966A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BBC2EA-E1A9-4F93-94E5-45DED8F7C599}
+	EndGlobalSection
+EndGlobal
