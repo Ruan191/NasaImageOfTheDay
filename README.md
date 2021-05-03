@@ -1,5 +1,5 @@
 # NasaImageOfTheDay
-This site was made using ASP.NET and the Nasa's photo of the day API. (API Key not included)
+This site was made using ASP.NET and the Nasa's APOD API. (API Key not included)
 ![alt text](https://github.com/Ruan191/NasaImageOfTheDay/blob/master/NasaImageOfTheDay/About/Images/example.JPG "example image")
 
 ### NOTE
